@@ -6,6 +6,8 @@ public class Metoda3{
     public static void main(String[] args) {
         Autobiografia("Fadil","Zeneli",42,1.84,"Vranjevc","Sportist");
         shumaNumave();
+        zbritja();
+
     }
 
     public static void Autobiografia(String emri, String mbiemri, int mosha, double gjatesia, String venbanimi, String profesioni){
@@ -23,6 +25,10 @@ public class Metoda3{
 
     public static void shumaNumave(){
         System.out.println(4+5);
+    }
+
+    public static void zbritja(){
+        System.out.println(3-4);
     }
 
 }
