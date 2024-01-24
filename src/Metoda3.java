@@ -15,6 +15,9 @@ public class Metoda3{
         System.out.println("venbanimi im esht :"+venbanimi);
         System.out.println("profesioni im esht :"+profesioni);
 
+
+
+        
     }
 
 }
