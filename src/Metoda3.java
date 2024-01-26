@@ -27,6 +27,10 @@ public class Metoda3{
         System.out.println(3-4);
     }
 
+    public static void pjestimi(){
+        System.out.println(6/4);
+    }
+
 }
 
 
