@@ -17,10 +17,6 @@ public class Metoda3{
         System.out.println("gjatesia ime esht :"+gjatesia);
         System.out.println("venbanimi im esht :"+venbanimi);
         System.out.println("profesioni im esht :"+profesioni);
-
-
-
-        
     }
 
     public static void shumaNumave(){
