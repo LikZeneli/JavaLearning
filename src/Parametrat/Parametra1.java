@@ -7,6 +7,7 @@ public class Parametra1 {
         int[] a ={1,2,23,1,231,23,12,42,534,534,435,643,5,3};
         System.out.println(shumaNumrave(a));
         System.out.println("shuma e numrave esht :"+shumaeeNumrave());
+        System.out.println("shuma e numrave esht :"+shumaeeNumrave(5));
 
     }
 
@@ -25,6 +26,14 @@ public class Parametra1 {
     }
 
     public static int shumaeeNumrave(){
+        int shuma=0;
+        for (int i = 0; i <= 100; i++) {
+            shuma=shuma+i;
+        }
+        return shuma;
+    }
+
+    public static int shumaeeNumrave(int a){
         int shuma=0;
         for (int i = 0; i <= 100; i++) {
             shuma=shuma+i;
