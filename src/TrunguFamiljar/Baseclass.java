@@ -9,6 +9,6 @@ public class Baseclass {
         Likiii1 XHIP=new Likiii1();
         System.out.println(XHIP.emri());
         System.out.println(XHIP.mbiemri());
-        System.out.println(XHIP.mosha()g);
+        System.out.println(XHIP.mosha());
     }
 }
