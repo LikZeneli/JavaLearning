@@ -8,5 +8,6 @@ public class Math {
 
         System.out.println(perfaqsuesiKlasesShumzimi.shumzimiDyNumrave(5,9));
         System.out.println(perfaqsuesiKlasesZbritja.zbirtjaNumrave(5,5.2));
+        System.out.println(perfaqsuesiKlasesZbritja.zbirtjaNumrave(5,5.2));
     }
 }
