@@ -12,5 +12,6 @@ public class Calculator {
 
         }
         System.out.println("kastriot");
+        System.out.println("kastriot");
     }
 }
